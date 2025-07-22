@@ -4,5 +4,5 @@ from ai.gesture_tracking import main as g_main
 
 if __name__ == "__main__":
     # s_main()
-    g_main()
-    #a_main()
+    #g_main()
+    a_main()
